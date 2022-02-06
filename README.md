@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sqasim-p
+- 👋 Hi, I’m Qasim
 - 👀 I’m interested in web & mobile app dev
 - 🌱 I’m currently learning java spring & angular8+
 - 💞️ Java, Spring MVC, Spring Boot, Angular, React, Vue, Flutter
